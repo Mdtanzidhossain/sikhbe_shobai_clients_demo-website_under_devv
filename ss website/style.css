@@ -1,0 +1,35 @@
+*{
+   margin:0;
+   padding: 0;
+
+}
+
+.container{
+	width: 1140px;
+	margin:auto;
+}
+.header{
+	text-align: center;
+	background-color: black;
+
+}
+.header ul{
+	list-style:none;
+}
+.header ul li {
+	display: inline-block;
+	width: 80px;
+}
+
+.header ul li a{
+    
+    color: white;
+    line-height: 60px;
+    text-decoration: none;
+}
+
+.header ul li a:hover{
+	color: red;
+	
+
+}
